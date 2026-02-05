@@ -1,1 +1,1 @@
-
+vless://46838ffa-8030-4b1b-9310-51b2c73094e9@192.200.160.172:443?path=%2FeyJqdW5rIjoiVktBbGJnV0R6VjUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=b3b3b3lplp.mehran-akb93.workers.dev&type=ws&allowInsecure=0#232-VLESS-CleanIP-443%7CMokhaberat
